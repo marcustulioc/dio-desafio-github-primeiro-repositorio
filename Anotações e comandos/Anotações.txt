@@ -1,0 +1,5 @@
+Download do Git: https://git-scm.com/downloads
+-- Clonar [Pegar os arquivos]: git clone (site https)
+-- Colocar na fila para subir ao servidor: git add .
+-- Status do git [Verificar os arquivos que irão subir]: git status
+-- Subir versão atual: git commit -m"MENSAGEM SOBRE O COMMIT"
